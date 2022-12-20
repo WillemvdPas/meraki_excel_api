@@ -12,6 +12,7 @@ https://developer.cisco.com/meraki/api-v1/
 
 ## Attributions
 * [Willem van der Pas]: Original author
+* wilmpas@gmail.com
  
  
  
